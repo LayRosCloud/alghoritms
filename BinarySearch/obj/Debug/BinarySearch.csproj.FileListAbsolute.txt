@@ -1,0 +1,11 @@
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\bin\Debug\Generator.dll
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\bin\Debug\Generator.pdb
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\obj\Debug\BinarySearch.csproj.CopyComplete
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Betrayal\source\repos\Algorithms\BinarySearch\obj\Debug\BinarySearch.pdb
