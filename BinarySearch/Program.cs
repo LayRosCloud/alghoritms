@@ -1,7 +1,5 @@
 ﻿using Generator;
 using System;
-using System.Collections.Generic;
-using System.Runtime.InteropServices;
 
 namespace BinarySearch
 {
@@ -16,10 +14,13 @@ namespace BinarySearch
 
             int index = BinarySearch(array, array[4]);
             Console.WriteLine($"Индекс элемента {array[4]}: {index}");
+
+
             string[] phones = { "3213", "31231", "76564" };
             string[] person = { "Гриша", "Гоша", "Маша" };
 
             string number = BinarySearchOnText(phones, person, "Маша");
+
             Console.WriteLine(number);
             Console.WriteLine(BinarySearchOnPhone(phones, person, number));
         }

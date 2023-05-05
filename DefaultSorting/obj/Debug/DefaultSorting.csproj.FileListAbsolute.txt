@@ -1,0 +1,11 @@
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\bin\Debug\DefaultSorting.exe.config
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\bin\Debug\DefaultSorting.exe
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\bin\Debug\DefaultSorting.pdb
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\bin\Debug\Generator.dll
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\bin\Debug\Generator.pdb
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\obj\Debug\DefaultSorting.csproj.AssemblyReference.cache
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\obj\Debug\DefaultSorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\obj\Debug\DefaultSorting.csproj.CoreCompileInputs.cache
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\obj\Debug\DefaultSorting.csproj.CopyComplete
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\obj\Debug\DefaultSorting.exe
+C:\Users\Betrayal\source\repos\Algorithms\DefaultSorting\obj\Debug\DefaultSorting.pdb
