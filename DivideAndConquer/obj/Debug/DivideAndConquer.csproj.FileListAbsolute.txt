@@ -1,0 +1,8 @@
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\bin\Debug\DivideAndConquer.exe.config
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\bin\Debug\DivideAndConquer.exe
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\bin\Debug\DivideAndConquer.pdb
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\obj\Debug\DivideAndConquer.csproj.AssemblyReference.cache
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\obj\Debug\DivideAndConquer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\obj\Debug\DivideAndConquer.csproj.CoreCompileInputs.cache
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\obj\Debug\DivideAndConquer.exe
+C:\Users\Betrayal\source\repos\Algorithms\DivideAndConquer\obj\Debug\DivideAndConquer.pdb
