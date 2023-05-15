@@ -1,0 +1,8 @@
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\bin\Debug\HashSchema.exe.config
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\bin\Debug\HashSchema.exe
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\bin\Debug\HashSchema.pdb
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\obj\Debug\HashSchema.csproj.AssemblyReference.cache
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\obj\Debug\HashSchema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\obj\Debug\HashSchema.csproj.CoreCompileInputs.cache
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\obj\Debug\HashSchema.exe
+C:\Users\Betrayal\source\repos\Algorithms\HashSchema\obj\Debug\HashSchema.pdb

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.csproj", "{D2A26E3B-5BCE-4AC7-9AE9-1177878D4CDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSchema", "HashSchema\HashSchema.csproj", "{558BFD73-96E1-4177-9308-B752EE2B8B2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindWidth", "FindWidth\FindWidth.csproj", "{1DA58651-30D2-4961-A160-0C88B272152B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{D2A26E3B-5BCE-4AC7-9AE9-1177878D4CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2A26E3B-5BCE-4AC7-9AE9-1177878D4CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2A26E3B-5BCE-4AC7-9AE9-1177878D4CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558BFD73-96E1-4177-9308-B752EE2B8B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558BFD73-96E1-4177-9308-B752EE2B8B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558BFD73-96E1-4177-9308-B752EE2B8B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558BFD73-96E1-4177-9308-B752EE2B8B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA58651-30D2-4961-A160-0C88B272152B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA58651-30D2-4961-A160-0C88B272152B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA58651-30D2-4961-A160-0C88B272152B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA58651-30D2-4961-A160-0C88B272152B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

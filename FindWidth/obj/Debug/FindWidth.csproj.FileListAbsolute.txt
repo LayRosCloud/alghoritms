@@ -1,0 +1,8 @@
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\bin\Debug\FindWidth.exe.config
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\bin\Debug\FindWidth.exe
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\bin\Debug\FindWidth.pdb
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\obj\Debug\FindWidth.csproj.AssemblyReference.cache
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\obj\Debug\FindWidth.csproj.SuggestedBindingRedirects.cache
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\obj\Debug\FindWidth.csproj.CoreCompileInputs.cache
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\obj\Debug\FindWidth.exe
+C:\Users\Betrayal\source\repos\Algorithms\FindWidth\obj\Debug\FindWidth.pdb
